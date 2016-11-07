@@ -68,6 +68,14 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        btn3puntosVisitante.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                marcadorVisitante += 3;
+                mVisitante.setText(Integer.toString(marcadorVisitante));
+            }
+        });
+
         btn2puntosLocal.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -83,6 +91,8 @@ public class MainActivity extends AppCompatActivity {
                 mLocal.setText(Integer.toString(marcadorLocal));
             }
         });
+
+
     }
 
     void reiniciarMarcadores(){
