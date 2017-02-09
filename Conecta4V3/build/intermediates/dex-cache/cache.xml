@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mike\AndroidStudioProjects\Conecta4V3\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="34520654f46aa0a01ccf4012f71eeef4976d6e71">
+        <dex dex="C:\Users\Mike\AndroidStudioProjects\Conecta4V3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f8e9edf3dc6e5fe65d5808a0bedf8b135e427959\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mike\AndroidStudioProjects\Conecta4V3\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3a980f636bc79f487d7adf9fbedb16eab13d2fa4">
+        <dex dex="C:\Users\Mike\AndroidStudioProjects\Conecta4V3\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_f9f39f29afc8a824a1557a65d684282d47caf8df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mike\AndroidStudioProjects\Conecta4 V2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e349dffb810b9ec9cb80a36ac46297c141779684">
+        <dex dex="C:\Users\Mike\AndroidStudioProjects\Conecta4 V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_68fb6667be321dffbb5ae4e3d31abbe27c280ed7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mike\AndroidStudioProjects\Conecta4V3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Mike\AndroidStudioProjects\Conecta4V3\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_3d00a681d6b0b64a94da60216294eee753c814b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mike\AndroidStudioProjects\Conecta4 V2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Mike\AndroidStudioProjects\Conecta4 V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_a5006776f60da79a985a4c133b8a26be60eb6f61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mike\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Mike\AndroidStudioProjects\Conecta4 V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_a32bc436a784dfe4b85e99d403a5fefa13194c2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mike\AndroidStudioProjects\Conecta4 V2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e19fd16df894fa0b5a9c519e5205503a052fdc75">
+        <dex dex="C:\Users\Mike\AndroidStudioProjects\Conecta4 V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_95099fa29b8504b23063be480326ae22b43e5d80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mike\AndroidStudioProjects\Conecta4V3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Mike\AndroidStudioProjects\Conecta4V3\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_bc9006d2a194424549a0237198e5813f822aa51a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Mike\AndroidStudioProjects\Conecta4 V2\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Mike\AndroidStudioProjects\Conecta4 V2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_a94cc85a26467b7f7c5b47ce6d179868267dd59b\classes.dex" />
+    </item>
+
+</items>
